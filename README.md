@@ -1,6 +1,6 @@
-# Hi there, I'm Abdullah Sonija! 👋
+# Hi there, I'm Abdullah Sonija! 
 
-### 🧬 Pre-Med Turned AI Engineer 🤖
+###  Pre-Med Turned AI Engineer 
 
 **Bridging the gap between Biological Systems and Artificial Intelligence.**
 
@@ -10,7 +10,7 @@ With a **CGPA of 3.2+** and a strong foundation in C++, Python, and Computer Vis
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 | **Core Languages** | **AI & Data Science** | **Tools & Platforms** |
 | --- | --- | --- |
@@ -23,20 +23,20 @@ With a **CGPA of 3.2+** and a strong foundation in C++, Python, and Computer Vis
 
 ---
 
-### 🔭 Current Focus & Concepts
+###  Current Focus & Concepts
 
 I am currently deep-diving into **AI Agents** and **Autonomous Systems**, with a specific interest in:
 
-* 🤖 **CS50 AI** — Search algorithms, adversarial AI, Bayesian networks, neural networks
-* 🧠 **AI Agents & Multi-Agent Systems** — Designing autonomous decision-making pipelines
-* 🚗 **Driverless Car Technology** — Lane detection, object recognition, real-time CV
-* 🩻 **Medical Imaging** — Automated diagnosis via Computer Vision
+*  **CS50 AI** — Search algorithms, adversarial AI, Bayesian networks, neural networks
+*  **AI Agents & Multi-Agent Systems** — Designing autonomous decision-making pipelines
+*  **Driverless Car Technology** — Lane detection, object recognition, real-time CV
+*  **Medical Imaging** — Automated diagnosis via Computer Vision
 
 ---
 
-### 🚀 Highlight Projects
+###  Highlight Projects
 
-#### 1. 📈 [CryptoPulse — ML-Powered Crypto Trading Signal Bot](https://github.com/Abdullah-Sonija/tradingBot)
+#### 1.  [CryptoPulse — ML-Powered Crypto Trading Signal Bot](https://github.com/Abdullah-Sonija/tradingBot)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat&logo=python&logoColor=white)
@@ -45,7 +45,7 @@ I am currently deep-diving into **AI Agents** and **Autonomous Systems**, with a
 
 A real-time crypto trading signal bot that uses **XGBoost** trained on **36 technical indicators** (RSI, MACD, Bollinger Bands, ADX, OBV, and more) to generate LONG / SHORT / HOLD predictions. Features a live **Flask dashboard**, multi-timeframe support (15m → 1d), automatic model retraining, and a self-verifying prediction accuracy tracker across 5 pre-trained pairs: BTC, ETH, BNB, SOL, XRP.
 
-#### 2. 💸 [FinFlow v2.0 — Advanced Expense Analytics](https://github.com/Abdullah-Sonija/Project-Expense-Analyzer)
+#### 2.  [FinFlow v2.0 — Advanced Expense Analytics](https://github.com/Abdullah-Sonija/Project-Expense-Analyzer)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -53,7 +53,7 @@ A real-time crypto trading signal bot that uses **XGBoost** trained on **36 tech
 
 A full-featured personal finance tracker built for the **Data Structures & Algorithms** course. Implements **custom Array, Stack, and HashMap** from scratch (no STL), features **5 sorting algorithms** with live benchmarking (Quick, Merge, Heap, Radix, Bubble), stack-based undo, budget caps, CSV persistence, and a **Python visualization engine** generating pie charts, trend lines, and heatmaps.
 
-#### 3. 🎬 Degrees of Separation (CS50 AI)
+#### 3.  Degrees of Separation (CS50 AI)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
@@ -61,7 +61,7 @@ Implemented **Breadth-First Search (BFS)** to find the shortest relationship pat
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Sonija&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -70,7 +70,7 @@ Implemented **Breadth-First Search (BFS)** to find the shortest relationship pat
 
 ---
 
-### 🤝 Let's Connect
+###  Let's Connect
 
 I am open to collaborations on **Open Source AI tools**, **HealthTech innovation**, and **Computer Vision** research.
 
